@@ -1,0 +1,16 @@
+.wrapper {
+  min-height: 100vh;
+}
+
+.cardBox {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.dataCard {
+  border-top: 3px solid #77216f;
+}
+
+@import '../../node_modules/vanilla-framework/';
